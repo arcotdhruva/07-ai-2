@@ -1,0 +1,11 @@
+# Quarto
+.quarto/
+_freeze/
+*_cache/
+_site/
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
